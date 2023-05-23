@@ -1,0 +1,26 @@
+.brand-image {
+	opacity: .8;
+}
+.display-none {
+	display: none;
+}
+
+.bg-info, .bg-danger, .bg-success, .bg-warning {
+	height: 70px;
+}
+
+.bg-info img, .bg-danger img, .bg-success img, .bg-warning img {
+	height: 100%;
+}
+
+#dt_backgrownd_style_display, #dt_home_style_display {
+	width: 100%;
+}
+
+.mt-20 {
+	margin-top: 20px;
+}
+
+.cursor-pointer {
+	cursor: pointer;
+}
